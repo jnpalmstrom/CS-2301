@@ -1,0 +1,2 @@
+Employee1:. Name = Harry Palmer, Salary = 50000
+Employee1:. Name = Erik Grantby, Salary = 60000
