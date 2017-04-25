@@ -1,0 +1,4 @@
+Employee1:. Name = Harry Palmer, Salary = 50000, Department = Seafood
+Employee1:. Name = Erik Grantby, Salary = 60000, Department = Deli
+Employee1:. Name = Jack Palmstrom, Salary = 45000, Department = Bakery
+Employee1:. Name = Daxter Smith, Salary = 30000, Department = Produce
