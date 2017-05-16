@@ -1,9 +1,4 @@
-Name: Jack Palmstrom
-Date: 4/23/2017
-Class: CS2301
-Section: D03
-
-Brief Description of Each Program:
+# Brief Description of Each Program:
 
       stacktest:
 	This program implements a stack system which allows you all the same functionalities as a real stack. This program demonstrates functions
@@ -31,7 +26,7 @@ Brief Description of Each Program:
 	tests the sorting of the tree sort on the tree with the same scrutiny as the program tnodetest.
 
 
-Instructions on How to Compile and Link Programs:
+# Instructions on How to Compile and Link Programs:
 
         **On a Linux OS, open up the terminal and navigate to correct directory. Run make in order to create the executable programs listed here.** 
 				   
